@@ -20,6 +20,8 @@ SQL
   ## Featured Projects
   ### Sales Dashboard
   Tools: Power BI | SQL | Excel
+Description:
+Designed an interactive sales dashboard showing revenue, profit, customer segmentation and regional performance.
 
 
 
