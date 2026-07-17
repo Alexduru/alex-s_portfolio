@@ -17,6 +17,9 @@ SQL
 - ETL
 - Dashboard Development
 - Data Visualization
+  ## Featured Projects
+  ### Sales Dashboard
+  Tools: Power BI | SQL | Excel
 
 
 
