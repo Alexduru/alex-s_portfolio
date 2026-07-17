@@ -1,2 +1,2 @@
 # alex-s_portfolio
-Analytics portfolio
+# projects 1: [a sales report from the united state] (C:\User\Alexa\Onedrive\Documents)
